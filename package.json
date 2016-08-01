@@ -15,7 +15,7 @@
       "examples": ["angular2","typescript"]
     },
     {
-      "name": "How Angular Works demo",
+      "name": "How Angular Works demo project",
       "examples": ["how_angular_works/inventory_app"]
     },
     {
