@@ -19,7 +19,7 @@ because of now ng2 hasn't release version, update is fast ...
 | R35|2016-07-01|rc4|
 
 ### 4 latest change
-I will set the latest branch as the default branch
+I will set the latest branch as the default branch。
 
 ### 5、other
 welcome to [xiaomo's blog](http://blog.xiaomo.info)。
